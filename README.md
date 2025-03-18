@@ -22,3 +22,15 @@ GitHub는 협업을 매우 쉽게 해줍니다. 여러 명의 개발자가 동�
 
 GitHub는 오픈 소스 프로젝트를 위한 중심지 역할을 합니다. 전 세계의 개발자들이 오픈 소스 프로젝트를 공유하고 협업하는데 유용한 플랫폼입니다.
 [02. Github_20250314.pptx](https://github.com/user-attachments/files/19309113/02.Github_20250314.pptx)
+
+
+## 발표
+주제: ai장점/단점,개인적결론
+![스크린샷 2025-03-18 162813](https://github.com/user-attachments/assets/a0c7f762-7e6e-4581-95d8-330cc99cb3ff)
+![스크린샷 2025-03-18 162920](https://github.com/user-attachments/assets/1148d4c2-7551-4eca-aee3-138146fad743)
+![스크린샷 2025-03-18 163041](https://github.com/user-attachments/assets/6fd96b74-c627-4cb0-801d-b707c64cca62)
+![스크린샷 2025-03-18 163012](https://github.com/user-attachments/assets/17b3226c-08c4-438d-a002-7add1897b817)
+![스크린샷 2025-03-18 163122](https://github.com/user-attachments/assets/958ffa0e-58c9-4332-b748-3d68da911bbc)
+![스크린샷 2025-03-18 163147](https://github.com/user-attachments/assets/023d4f33-0740-48e9-85a0-99e666404f2b)
+![스크린샷 2025-03-18 163221](https://github.com/user-attachme![스크린샷 2025-03-18 163258](https://github.com/user-attachments/assets/bad5e8a1-30cb-4aa5-8446-92b1f3bdc069)
+nts/assets/65062234-4d0e-4acd-80ba-1ac60444a41f)
