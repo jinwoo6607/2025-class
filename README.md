@@ -32,5 +32,6 @@ GitHub는 오픈 소스 프로젝트를 위한 중심지 역할을 합니다. �
 ![스크린샷 2025-03-18 163012](https://github.com/user-attachments/assets/17b3226c-08c4-438d-a002-7add1897b817)
 ![스크린샷 2025-03-18 163122](https://github.com/user-attachments/assets/958ffa0e-58c9-4332-b748-3d68da911bbc)
 ![스크린샷 2025-03-18 163147](https://github.com/user-attachments/assets/023d4f33-0740-48e9-85a0-99e666404f2b)
-![스크린샷 2025-03-18 163221](https://github.com/user-attachme![스크린샷 2025-03-18 163258](https://github.com/user-attachments/assets/bad5e8a1-30cb-4aa5-8446-92b1f3bdc069)
-nts/assets/65062234-4d0e-4acd-80ba-1ac60444a41f)
+![스크린샷 2025-03-18 163221](https://github.com/user-attachments/assets/6a960a02-bdb8-41c5-949e-8648a2a35778)
+![스크린샷 2025-03-18 163258](https://github.com/user-attachments/assets/3df8f28a-6f78-4df1-a6eb-b7c45969c469)
+
