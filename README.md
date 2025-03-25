@@ -1,4 +1,5 @@
 [02. Github_20250314.pptx](https://github.com/user-attachments/files/19309113/02.Github_20250314.pptx)
+## 노코딩에대한발표 정의 노코딩종류 특징 장단 나에게맞는발표
 # 2025-class
 2025 Track class
 
@@ -45,3 +46,6 @@ GitHub는 오픈 소스 프로젝트를 위한 중심지 역할을 합니다. �
 ## 4주차
 ![스크린샷 2025-03-25 152130](https://github.com/user-attachments/assets/7a2f7b2e-547d-4164-ac62-8308ae6ab2bb)
 ![스크린샷 2025-03-25 152235](https://github.com/user-attachments/assets/85eb2983-189f-435d-9751-7b7fd8708865)
+![스크린샷 2025-03-25 161945](https://github.com/user-attachments/assets/b2e3fb00-71dc-4912-a7c6-8dc0a43c280e)
+
+
