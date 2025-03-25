@@ -1,3 +1,4 @@
+[02. Github_20250314.pptx](https://github.com/user-attachments/files/19309113/02.Github_20250314.pptx)
 # 2025-class
 2025 Track class
 
@@ -21,7 +22,6 @@ GitHub의 최고 장점은 협과 소스 코드 관리의 효율성을 극대화
 GitHub는 협업을 매우 쉽게 해줍니다. 여러 명의 개발자가 동시에 작업할 수 있고, 변경 사항을 추적하며, 코드 리뷰를 통해 다른 사람들의 작업을 검토할 수 있습니다.
 
 GitHub는 오픈 소스 프로젝트를 위한 중심지 역할을 합니다. 전 세계의 개발자들이 오픈 소스 프로젝트를 공유하고 협업하는데 유용한 플랫폼입니다.
-[02. Github_20250314.pptx](https://github.com/user-attachments/files/19309113/02.Github_20250314.pptx)
 
 
 ## 발표
