@@ -1,6 +1,6 @@
 [02. Github_20250314.pptx](https://github.com/user-attachments/files/19309113/02.Github_20250314.pptx)
 ### 공부=키워드 알아둬
-### 인공지능이용해서 기능을꺼
+### 인공지능이용해서 기능을꺼낸다
 ### 노코딩에대한발표 정의 노코딩종류 특징 장단 나에게맞는발표 웹
 ### CLOUD FLARE
 
