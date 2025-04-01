@@ -65,3 +65,4 @@ GitHub는 오픈 소스 프로젝트를 위한 중심지 역할을 합니다. �
 
 ### 벽돌깨기게임
 ![스크린샷 2025-04-01 162352](https://github.com/user-attachments/assets/4559666e-74e2-4d13-aa71-848590ff1349)
+[jin02.zip](https://github.com/user-attachments/files/19546688/jin02.zip)
